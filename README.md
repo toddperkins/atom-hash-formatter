@@ -1,5 +1,6 @@
-# atom-hash-formatter package
+# Atom Hash Formatter
 
-A short description of your package.
+This is a small package that takes the output of a Ruby hash obtained from a log file and
+converts it into something prettier to read for troubleshooting purposes.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+
